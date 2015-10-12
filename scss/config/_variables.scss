@@ -1,0 +1,34 @@
+// colors
+
+$blue : #00AAC4;
+$red  : #B80000;
+
+
+// functional colors
+
+$primary__color : $blue;
+$danger__color  : $red;
+
+$link__color: $primary__color;
+
+
+// content
+
+$content-maxw: 960px;
+$gutter__width: 12px;
+$base__padding: $gutter__width;
+
+// fonts
+
+$google-font__url: 'https://fonts.googleapis.com/css?family=Roboto:400,300';
+
+$base-font__stack: 'Roboto', sans-serif;
+
+$font-weight--thin: 300;
+$font-weight--normal: 400;
+
+
+// breakpoint
+
+$brk-small: 480px;
+$brk-md: 800px;
